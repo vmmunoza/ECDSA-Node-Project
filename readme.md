@@ -19,6 +19,6 @@ If you are not on any branch, you might want to check you did initialize a new G
 
 - Commit with ´git commit -m "Commit Message"´
 
-- Finally, push the changes with the command ´git push -u origin master´ 
+- Finally, push the changes with the command `git push -u origin master`.  
 
 *The ´git remote add origin [remote repository URL]´ command is used to add a new remote repository to your local Git repository*
